@@ -33,7 +33,7 @@
 ---
 
 ### 📬 Contact
-- Email: dahui0410@gmail.com
+- Email: ydhdev01@gmail.com
 - blog: https://hui41.tistory.com/
 
 ---
